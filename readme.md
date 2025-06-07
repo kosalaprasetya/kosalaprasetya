@@ -2,6 +2,9 @@
 
 ### 🧑‍💻 Software Engineer | Fullstack Developer
 
+
+> _“Still learning, still debugging, still curious, and of course always confuse.”_
+
 I’m a **lifelong learner** with a passion for building and breaking things with **JavaScript**.  
 Right now, I’m diving deeper into **Laravel**, **Docker**, and **DevOps**, especially cloud deployments and CI/CD.  
 Still exploring, still improving — and I’m happy to share what I know.
@@ -50,9 +53,8 @@ Still exploring, still improving — and I’m happy to share what I know.
 ## 🔗 Let’s Connect
 
 - 🌐 [GitHub](https://github.com/kosalaprasetya)
-- 📫 (add LinkedIn, email, or personal site here if you want later)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kosala-prasetya)
 
 ---
 
-> _“Still learning, still debugging, still curious.”_
 
